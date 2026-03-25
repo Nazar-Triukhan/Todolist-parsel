@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.js"],"sourcesContent":["var $6f40c3a58f594b58$exports = {};\nconsole.log('helooo');\n\n\n//# sourceMappingURL=Todolist-parsel.9febfb73.js.map\n","console.log('helooo');\n"],"names":["console","log"],"version":3,"file":"Todolist-parsel.9febfb73.js.map"}
