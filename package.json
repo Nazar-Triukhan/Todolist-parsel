@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nazar-Triukhan/Todolist-parsel.git"
+    "url": "git+https://github.com/Nazar-Triukhan/todolist-parsel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nazar-Triukhan/Todolist-parsel/issues"
+    "url": "https://github.com/Nazar-Triukhan/todolist-parsel/issues"
   },
-  "homepage": "https://github.com/Nazar-Triukhan/Todolist-parsel#readme",
+  "homepage": "https://github.com/Nazar-Triukhan/todolist-parsel#readme",
   "devDependencies": {
     "parcel": "^2.16.4"
   },
